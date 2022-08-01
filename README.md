@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Maxximilyan
-- 👀 I’m interested in Junior, Middle, Senior C/C++, Python, Golang Developers 
-
+- 👋 Hi, I’m Maxim Dudnik
 - 📫 How to reach me @maxximilyan 
 
